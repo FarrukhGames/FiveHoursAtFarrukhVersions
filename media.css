@@ -1,0 +1,10 @@
+@media(max-width: 800px) {
+    .versions {
+        height: 100%;
+        flex-direction: column;
+    }
+
+    img {
+        max-width: 100%;
+    }
+}
